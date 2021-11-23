@@ -1,7 +1,7 @@
 /***** NAVBAR *****/
 
 .navbar {
-    background-color: #863ee3;
+    background-color: #bdbdbd;
     border-radius: 0;
 }
 
@@ -17,14 +17,14 @@
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-    color: #ebd122;
+    color: #252525;
     text-decoration: none;
 }
 
 /* Navbar links */
 .navbar-default .navbar-nav > li > a {
     color: #fff;
-    font-size: 16px;
+    font-size: 20px;
     padding: 10px;
 }
 
@@ -32,7 +32,7 @@
 .navbar-toggler {
     color: #fff;
     border-color: #fff;
-    background-color: #863ee3;
+    background-color: #bdbdbd;
     border-radius: 4px;
     border: 1px solid;
     fill: #fff;
@@ -43,7 +43,7 @@
 
 .navbar-toggler:hover,
 .navbar-toggler:focus {
-    background-color: #ebd122;
+    background-color: #889d85;
     color: #242424;
     fill: #242424;
     border-color: #fff;
@@ -53,7 +53,7 @@
 /*** JUMBOTRON ***/
 
 .jumbotron {
-    background-image: url("../assets/contour-lines.png");
+    background-image: url("../assets/backsplash.jpg");
     text-align: center;
     color: #fff;
     padding: 3%;
@@ -61,8 +61,10 @@
 }
 
 .jumbotron h2 {
-    font-size: 36px;
+    font-size: 50px;
     font-weight: bold;
+    font-family: 'Poiret One';
+    padding-top:60px;
 }
 
 .img-responsive{
