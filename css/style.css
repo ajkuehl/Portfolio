@@ -122,3 +122,9 @@ body {
     background-color: #f7f1fa;
     color: #242424;
 }
+
+.rounded-circle{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
