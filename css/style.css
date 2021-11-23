@@ -74,14 +74,30 @@
 /*** CARD ***/
 
 .card {
-    background-color: #fff;
+    background-color: #010101;
     border-color: #cccccc;
     border-width: 3px;
     width: 100%;
 }
 
+
 .card:hover {
     border-color: #e57d0f;
+    /*opacity: 75%;*/
+}
+
+.card-img-overlay a{
+  color:black;
+  position:absolute;
+  bottom:0;
+  left:2;
+  font-family:'Poiret One';
+  display:block;
+}
+
+.card-img-overlay:hover a{
+  color:white;
+  text-shadow: 0 0 3px #010101;
 }
 
 /*** Basic Text Styles ***/
