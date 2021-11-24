@@ -102,6 +102,14 @@
 
 /*** Basic Text Styles ***/
 
+p{
+  text-align: justify;
+}
+
+.titlepage{
+  text-align: center;
+}
+
 
 .resume h3 {
     font-weight: bold;
