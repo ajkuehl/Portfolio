@@ -150,6 +150,10 @@ body {
   margin-right: auto;
 }
 
-.interactive_site {
-  padding-left: 5%;
+.link{
+  color:white;
+}
+
+.link:hover{
+  color:black;
 }
