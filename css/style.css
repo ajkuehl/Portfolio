@@ -1,7 +1,7 @@
 /***** NAVBAR *****/
 
 .navbar {
-    background-color: #bdbdbd;
+    background-color: #CCCCCC;
     border-radius: 0;
 }
 
@@ -53,7 +53,7 @@
 /*** JUMBOTRON ***/
 
 .jumbotron {
-    background-image: url("../assets/backsplash.jpg");
+    background-image: url("../assets/Antique.jpg");
     text-align: center;
     color: #fff;
     padding: 3%;
